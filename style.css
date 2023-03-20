@@ -17,7 +17,7 @@ a:hover{
     font-size: 24px;
     padding-bottom: 0px;
 }
-.buger{
+.burger{
     width: 200px;
 }
 .box {
@@ -35,3 +35,4 @@ a:hover{
     display: flex;
     position: absolute;
 }
+
